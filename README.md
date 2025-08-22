@@ -32,6 +32,7 @@
     <a href="https://discord.gg/KpN4eHY">
         <img src="https://img.shields.io/discord/725182569297215569?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge"
             alt="chat on Discord"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Flogseq?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Flogseq.svg?type=shield"/></a>
     <a href="https://twitter.com/intent/follow?screen_name=logseq">
         <img src="https://img.shields.io/badge/twitter-%40logseq-blue.svg?&color=%2385c8c8&logo=twitter&style=for-the-badge"
             alt="follow on Twitter"></a>
@@ -51,6 +52,9 @@
         <img src="https://img.shields.io/github/v/release/logseq/logseq?color=%2385c8c8&style=for-the-badge"
             alt="latest release version"></a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Flogseq.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Flogseq?ref=badge_large)
 
 ## Table of Contents
 
